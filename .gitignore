@@ -1,0 +1,21 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+*.tfvars.json
+crash.log
+
+# Google Cloud credentials
+*web.json
+
+# VS Code / IDE
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
