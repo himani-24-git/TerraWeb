@@ -14,3 +14,5 @@
 
 # Ran the terraform commands like init , plan and apply that will help in making my website public.
 ## added .gitignore file so that some confidential keys like GCP key is not visible.
+## link: 
+https://web-host-460402-portfolio.storage.googleapis.com/index.html
